@@ -1,0 +1,4 @@
+Title: Automatisierung und Verantwortung
+Automatisierte Systeme treffen heute viele Entscheidungen im Alltag, zum Beispiel bei Empfehlungssystemen oder bei der Moderation von Inhalten. Auch wenn diese Systeme automatisch arbeiten, liegt die Verantwortung weiterhin bei den Menschen, die sie entwickeln und einsetzen.
+Ein häufiges Problem ist Übervertrauen. Nutzerinnen und Nutzer neigen dazu, automatischen Systemen mehr Kompetenz zuzuschreiben, als sie tatsächlich besitzen. Besonders KI-Systeme können sehr überzeugend wirken, auch wenn ihre Aussagen falsch sind.
+Deshalb ist es wichtig, automatisierte Entscheidungen transparent zu machen und menschliche Kontrolle einzuplanen. Ein System sollte klar anzeigen, wenn eine Entscheidung unsicher ist oder überprüft werden muss.
