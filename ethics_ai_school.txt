@@ -1,0 +1,4 @@
+Title: KI im schulischen Kontext
+Der Einsatz von KI in der Schule kann Lernprozesse unterstützen, zum Beispiel durch individuelle Übungsaufgaben oder automatisches Feedback. Gleichzeitig entstehen ethische Fragen, etwa beim Datenschutz oder bei der Bewertung von Leistungen.
+Automatische Systeme sollten keine endgültigen Entscheidungen über Schülerinnen und Schüler treffen. Stattdessen sollten sie Lehrkräfte unterstützen und transparent erklären, wie ihre Ergebnisse zustande kommen.
+Besonders wichtig ist es, Schülerinnen und Schüler frühzeitig über die Funktionsweise und Grenzen von KI aufzuklären, damit sie KI-Systeme kritisch hinterfragen können.
