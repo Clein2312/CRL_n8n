@@ -64,3 +64,13 @@ A “confidence” line (simple):
 “hoch” if at least 2 chunks support it
 “mittel” if 1 chunk
 “niedrig” if “nicht gefunden”
+
+#### Testaufgaben (müssen dokumentiert werden)
+- Stellen Sie 3 Fragen, die anhand der Dokumente beantwortet werden können.
+- Stellen Sie 3 Fragen, die nicht beantwortet werden kann.
+- Erfassen Sie die Ergebnisse (Screenshots oder Kopieren und Einfügen).
+
+#### Kurze Reflexion (Stichpunkte):
+Wo kann es zu Halluzinationen kommen?
+Wie hat sich die Qualität der Abfrage auf die Antworten ausgewirkt?
+Welche Sicherheitsregel haben Sie implementiert?
