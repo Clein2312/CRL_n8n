@@ -74,3 +74,7 @@ A “confidence” line (simple):
 Wo kann es zu Halluzinationen kommen?
 Wie hat sich die Qualität der Abfrage auf die Antworten ausgewirkt?
 Welche Sicherheitsregel haben Sie implementiert?
+
+#### Nutz den Block
+Read files from disk
+https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.readwritefile/
