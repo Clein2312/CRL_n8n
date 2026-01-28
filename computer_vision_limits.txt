@@ -1,0 +1,4 @@
+Title: Grenzen von Computer Vision
+Computer-Vision-Systeme ermöglichen es Maschinen, Bilder und Videos zu analysieren. Sie werden unter anderem für Objekterkennung, Gesichtserkennung und autonomes Fahren eingesetzt.
+Diese Systeme arbeiten mit Wahrscheinlichkeiten und können Fehler machen. Lichtverhältnisse, ungewöhnliche Perspektiven oder verzerrte Trainingsdaten können die Erkennungsleistung stark beeinflussen.
+Ein großes Risiko besteht darin, dass Ergebnisse als objektiv wahrgenommen werden, obwohl sie statistisch erzeugt sind. Besonders in sensiblen Bereichen ist daher Vorsicht geboten, und automatische Entscheidungen sollten nicht ohne menschliche Überprüfung erfolgen.
