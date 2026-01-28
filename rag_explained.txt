@@ -1,0 +1,4 @@
+Title: Retrieval-Augmented Generation (RAG)
+Retrieval-Augmented Generation, kurz RAG, ist ein Ansatz, um KI-Antworten zuverlässiger zu machen. Dabei wird ein Sprachmodell nicht allein verwendet, sondern mit externen Dokumenten kombiniert.
+Der Ablauf ist typischerweise: Zuerst wird eine Frage gestellt. Dann sucht das System relevante Textstellen aus einer Dokumentensammlung. Diese Textstellen werden anschließend dem Sprachmodell als Kontext übergeben, bevor die Antwort generiert wird.
+Ein Vorteil von RAG ist, dass Antworten auf konkrete Quellen zurückgeführt werden können. Ein Nachteil ist, dass die Qualität der Antwort stark von der Qualität der gefundenen Dokumente abhängt. Wenn keine passenden Dokumente gefunden werden, sollte das System dies klar kommunizieren.
