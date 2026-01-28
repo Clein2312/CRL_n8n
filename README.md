@@ -71,9 +71,9 @@ A “confidence” line (simple):
 - Erfassen Sie die Ergebnisse (Screenshots oder Kopieren und Einfügen).
 
 #### Kurze Reflexion (Stichpunkte):
-Wo kann es zu Halluzinationen kommen?
-Wie hat sich die Qualität der Abfrage auf die Antworten ausgewirkt?
-Welche Sicherheitsregel haben Sie implementiert?
+- Wo kann es zu Halluzinationen kommen?
+- Wie hat sich die Qualität der Abfrage auf die Antworten ausgewirkt?
+- Welche Sicherheitsregel haben Sie implementiert?
 
 #### Nutz den Block
 Read files from disk
