@@ -1,0 +1,4 @@
+Title: Grundlagen von agentischer KI
+Agentische KI-Systeme sind Systeme, die ein Ziel verfolgen und eigenständig Aktionen ausführen können. Im Gegensatz zu klassischen Programmen reagieren sie nicht nur auf einzelne Eingaben, sondern planen mehrere Schritte im Voraus.
+Ein typischer Agent besteht aus mehreren Teilen: Wahrnehmung (Input), Entscheidungslogik, Aktion und Feedback. Die Wahrnehmung kann aus Texten, Sensordaten oder anderen Systemen stammen. Die Entscheidung basiert entweder auf festen Regeln oder auf statistischen Modellen wie großen Sprachmodellen.
+Agentische Systeme sind besonders leistungsfähig, aber auch riskant. Wenn sie ohne menschliche Kontrolle handeln, können Fehler große Auswirkungen haben. Deshalb sind Sicherheitsmechanismen und klare Verantwortlichkeiten notwendig.
